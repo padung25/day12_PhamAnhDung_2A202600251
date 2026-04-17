@@ -67,7 +67,7 @@ Client -> Nginx -> Agent -> Redis
 
 ### Exercise 3.1: Deploy Railway
 
-- Screenshot service running: [screenshots/running.png](screenshots/running_03.png)
+- Screenshot service running: [screenshots/running_03.png](screenshots/running_03.png)
 
 Cấu hình Railway dùng start command dạng:
 
